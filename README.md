@@ -2,16 +2,16 @@
 
 # GMT352 Geographic Information Systems
 
-- ## Contributers
+## Contributers
 - Sude Yaprak Köse - 21967632
 
-- ## A Case Study (Region of Interest)
-Mitigating effects of the 6 February earthquake.
+## A Case Study (Region of Interest)
+- Mitigating effects of the 6 February earthquake.
 
-- ## Aim and Objectives
+## Aim and Objectives
 
-- ## Requirements
+## Requirements
 
-- ## Data
+## Data
 
-- ## Maps
+## Maps
