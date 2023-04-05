@@ -37,5 +37,10 @@ Determination of places suitable for cultural, social and geographical features 
 - Designing new settlements in accordance with the history, culture and social structure of the city
 
 ## Data
+- Open Street Map
 
 ## Maps
+- Sude Yaprak Köse
+
+![hataysonnn](https://user-images.githubusercontent.com/119863892/230229836-e5382993-860e-49fb-ae7b-47e4427b72d7.png)
+
