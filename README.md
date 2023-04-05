@@ -6,9 +6,14 @@
 - Sude Yaprak Köse - 21967632
 
 ## A Case Study (Region of Interest)
-- Mitigating effects of the 6 February earthquake.
+#### We must build inclusive, safe, resilient and sustainable cities and human settlements in the earthquake zones.
 
 ## Aim and Objectives
+
+#### The aim of the project is:
+Determination of places suitable for cultural, social and geographical features in the reconstruction of cities destroyed in the 6 February earthquakes.
+
+#### The objectives of this project:
 
 ## Requirements
 
