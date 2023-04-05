@@ -23,6 +23,18 @@ Determination of places suitable for cultural, social and geographical features 
 - Promoting the development of sustainable cities and human settlements.
 
 ## Requirements
+#### The requirements for this project:
+
+- Installation of QGIS software
+- Data on the damage status of buildings after the 6 February earthquake
+- Classification of structures according to damage status data
+- Detection of areas to be demolished
+- Declaring historical and cultural sections as special zones
+- Data of the land structure, water resources, geoscience data and other geographical features of the earthquake area
+- Identification of new settlement areas
+- Obtaining the opinions of the local people
+- Designing new settlements resistant to all kinds of disaster risks
+- Designing new settlements in accordance with the history, culture and social structure of the city
 
 ## Data
 
