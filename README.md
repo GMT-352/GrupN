@@ -42,5 +42,6 @@ Determination of places suitable for cultural, social and geographical features 
 ## Maps
 - Sude Yaprak Köse
 
-![hataysonnn](https://user-images.githubusercontent.com/119863892/230229836-e5382993-860e-49fb-ae7b-47e4427b72d7.png)
+![hatayharitason](https://user-images.githubusercontent.com/119863892/230693205-534397a2-82c4-4b80-ada2-1fa4d2a7447f.png)
+
 
